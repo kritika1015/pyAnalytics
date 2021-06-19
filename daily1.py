@@ -1,19 +1,22 @@
 #Daily Practise File
 #-----------------------------
 #Data Structures
-#List - ordered collection of items, mutable(changeable) : [square ]
-|list1  #print when through spyder
+#List - ordered collection of items, mutable(changeable) : [square ]list1  #print when through spyder
+list1=[1,2,3,4,5,'a','Dhiraj',"Upadhyaya",True]
+list1
 type(list1)  #type of object
 print(list1)  #print when running complete file
 list1
 sorted([100000,5,3,2,4,5,324,43,4,4,3,23,434,53442,244,2245224,523])
-list2 = ['f','c','d','e',"f"]
+
 list2
+
 list2.count('f')
+
 list2.count('d')
+
 len(list2)
-dir(list)
-dir(tuple)
+dir(listdir(tuple)
 dir(list) #functions which can be operated on list type of DS
 sorted(list2)
 list2
